@@ -1,0 +1,1 @@
+i have created the git repository ,creating and managing the branches,making at least 2 commits messages,deploying the index.html file to github and bulding the repository into a single file
